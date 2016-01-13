@@ -1,0 +1,19 @@
+{
+  "name": "netflix-region",
+  "version": "1.0.0",
+  "description": "let user change their netflix region",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-connect": "^2.3.1",
+    "gulp-download": "0.0.1",
+    "gulp-file": "^0.2.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-xml2js": "^0.1.1",
+    "npm": "^3.5.3"
+  }
+}
